@@ -3,7 +3,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>example</groupId>
   <artifactId>Demo</artifactId>
-  <packaging>war</packaging>
+  <packaging>jar</packaging>
   <version>0.0.1-SNAPSHOT</version>
   <name>Demo Maven Webapp</name>
   <url>http://maven.apache.org</url>
@@ -16,7 +16,6 @@
     </dependency>
   </dependencies>
   <build>
-    <finalName>sample</finalName>
+    <finalName>Demo</finalName>
   </build>
 </project>
- 
